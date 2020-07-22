@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "TrystWithDestiny" ] },
+    "summary": { "en": [ "AudiAnnotate project for Jawahalal Nehru&#39;s speech &quot;Tryst with Destiny&quot;" ] },
+    "items": [
+    ]
+}
