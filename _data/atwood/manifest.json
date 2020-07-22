@@ -23,6 +23,14 @@
         "id": "https://argentenum.github.io/tryst-with-destiny/atwood/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3587.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://argentenum.github.io/tryst-with-destiny/atwood/canvas-1/canvas/E_layer.json",
+            "label": "E_layer"
+          }
+        ],
         "items": [
           {
             "id": "https://argentenum.github.io/tryst-with-destiny/atwood/canvas-1/paintings",
