@@ -23,6 +23,14 @@
         "id": "https://argentenum.github.io/tryst-with-destiny/trystwithdestiny/canvas-1/canvas",
         "type": "Canvas",
         "duration": 68.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://argentenum.github.io/tryst-with-destiny/trystwithdestiny/canvas-1/canvas/X.json",
+            "label": "X"
+          }
+        ],
         "items": [
           {
             "id": "https://argentenum.github.io/tryst-with-destiny/trystwithdestiny/canvas-1/paintings",
