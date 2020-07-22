@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://argentenum.github.io/tryst-with-destiny/atwood/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Atwood" ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "Home page for Atwood" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "Audiannotateworkshop" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://argentenum.github.io/tryst-with-destiny/atwood/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3587.0,
+        "items": [
+          {
+            "id": "https://argentenum.github.io/tryst-with-destiny/atwood/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://argentenum.github.io/tryst-with-destiny/atwood/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.dropbox.com/s/x5jo8z7ch78ksin/margaret_atwood_i006-11-008.mp3?dl=1",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 3587.0
+                },
+                "target": "https://argentenum.github.io/tryst-with-destiny/atwood/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
